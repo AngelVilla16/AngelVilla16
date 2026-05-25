@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">I am a software engineering student, the director of Astrosoft, and the Astra project manager.<br><br>- 🔭 I’m working as project manager, programmer and backend dev.<br>- 📚 I'm currently learning software engineering, web apps oriented to servicies and MySql<br>- ⚡ In my free time I practice my skills making some projects and exercises</p>
+<p align="left">I am a software engineering student.<br><br>- 🔭 I’m working as project manager, programmer and backend dev.<br>- 📚 I'm currently learning software engineering, web apps oriented to servicies and MySql<br>- ⚡ In my free time I practice my skills making some projects and exercises</p>
 
 ###
 
