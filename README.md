@@ -18,7 +18,7 @@
 
 ###
 
-<p data-importer="text" align="left">I'm ... from ....<br><br>- 🔭 I’m working as full stack trainee<br>- 📚 I am an engineering student specializing in information technology and digital innovation.<br>- ⚡ In my free time I'm still learning about programming</p>
+<p data-importer="text" align="left">I'm from Mexico<br><br>- 🔭 I’m working as full stack trainee<br>- 📚 I am an engineering student specializing in information technology and digital innovation.<br>- ⚡ In my free time I'm still learning about programming</p>
 
 ###
 
